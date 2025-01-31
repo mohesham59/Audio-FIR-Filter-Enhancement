@@ -15,13 +15,19 @@ The project consists of the following key steps:
 
 3. **Noise Reduction**: 
    - The filter is applied to the noisy audio to enhance the speech and reduce unwanted noise.
+     
+![project](https://github.com/user-attachments/assets/c1f1cf81-373c-4915-82fb-90bd81067cf2)
 
 4. **Visualization**: 
    - The frequency response of the FIR filter is visualized before and after applying the Hamming window.
    - The original, noisy, and filtered audio signals are plotted for comparison.
+     
+![project_01](https://github.com/user-attachments/assets/95078396-5d20-473c-8c3b-7b337c07fbb1)
 
 5. **Audio Playback**: 
    - The script plays the original noisy audio followed by the filtered audio to demonstrate the effect of the noise reduction.
+     
+![project_02](https://github.com/user-attachments/assets/dbc6b4ab-0885-46cd-9b2d-e5aabba7c518)
 
 ## Project Files
 
